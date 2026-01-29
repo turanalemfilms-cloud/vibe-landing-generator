@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 46, "column": 0}, "map": {"version":3,"sources":["file:///Users/gulzhanserikbay/vibe-landing-generator/src/app/api/debug/telegram/route.ts"],"sourcesContent":["import { NextResponse } from 'next/server'\n\nexport const runtime = 'nodejs'\n\nexport async function GET() {\n  if (process.env.NODE_ENV === 'production') {\n    return NextResponse.json({ error: 'Not found' }, { status: 404 })\n  }\n\n  const token = process.env.TELEGRAM_BOT_TOKEN || ''\n  const chatId = process.env.TELEGRAM_CHAT_ID || ''\n\n  return NextResponse.json({\n    hasToken: Boolean(token),\n    tokenHasColon: token.includes(':'),\n    tokenPrefix: token ? token.slice(0, 10) : null,\n    tokenLength: token.length,\n    hasChatId: Boolean(chatId),\n    chatIdLooksNumeric: /^-?\\d+$/.test(chatId),\n    chatIdLength: chatId.length,\n  })\n}\n\n"],"names":[],"mappings":";;;;;;AAAA;;AAEO,MAAM,UAAU;AAEhB,eAAe;IACpB;;IAIA,MAAM,QAAQ,QAAQ,GAAG,CAAC,kBAAkB,IAAI;IAChD,MAAM,SAAS,QAAQ,GAAG,CAAC,gBAAgB,IAAI;IAE/C,OAAO,gJAAY,CAAC,IAAI,CAAC;QACvB,UAAU,QAAQ;QAClB,eAAe,MAAM,QAAQ,CAAC;QAC9B,aAAa,QAAQ,MAAM,KAAK,CAAC,GAAG,MAAM;QAC1C,aAAa,MAAM,MAAM;QACzB,WAAW,QAAQ;QACnB,oBAAoB,UAAU,IAAI,CAAC;QACnC,cAAc,OAAO,MAAM;IAC7B;AACF"}}]
+}

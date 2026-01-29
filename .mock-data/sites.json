@@ -1,0 +1,529 @@
+{
+  "3af91833-1945-49bc-9fb3-8f4285f96eac": {
+    "version": 1,
+    "styleKey": "minimalist_tech",
+    "tokens": {
+      "fontHeading": "var(--font-space)",
+      "fontBody": "var(--font-inter)",
+      "bg": "bg-gradient-to-b from-slate-950 via-slate-950 to-black",
+      "card": "bg-white/5 backdrop-blur border border-white/10 shadow-[0_20px_60px_rgba(0,0,0,0.35)]",
+      "text": "text-white",
+      "muted": "text-white/70",
+      "border": "border-white/10",
+      "accent": "bg-sky-400",
+      "accentText": "text-slate-950",
+      "accentRing": "ring-2 ring-sky-400/40",
+      "radiusCard": "rounded-3xl",
+      "radiusCardSm": "rounded-2xl",
+      "radiusButton": "rounded-xl",
+      "radiusPill": "rounded-full",
+      "heroPadding": "px-4 pt-14 pb-10",
+      "sectionPadding": "px-4 py-10"
+    },
+    "brief": {
+      "businessName": "TestCo",
+      "targetAudience": "Клиенттер",
+      "services": [
+        "Лендинг",
+        "AI автоматизация",
+        "Чат-бот/CRM"
+      ],
+      "uniqueSellingPoints": [
+        "Жылдам delivery",
+        "AI-first",
+        "Нақты нәтиже"
+      ],
+      "cta": {
+        "label": "Өтінім қалдыру",
+        "href": "#lead"
+      },
+      "language": "KZ"
+    },
+    "content": {
+      "hero": {
+        "badge": "Vibe Coding • AI-first delivery",
+        "headline": "TestCo: сатылым әкелетін лендинг және AI автоматизация",
+        "subheadline": "Клиенттер үшін: Лендинг, AI автоматизация, Чат-бот/CRM. Нәтиже: Жылдам delivery • AI-first."
+      },
+      "features": {
+        "title": "Не аласыз?",
+        "items": [
+          {
+            "title": "Лендинг",
+            "description": "Конверсияға бағытталған құрылым, тез жүктелу, мобильді адаптив."
+          },
+          {
+            "title": "AI автоматизация",
+            "description": "Қолмен істейтін процестерді қысқартып, уақыт/шығын үнемдеу."
+          },
+          {
+            "title": "Чат-бот/CRM",
+            "description": "Лид жинау, квалификация, 24/7 байланыс және CRM интеграция."
+          }
+        ]
+      },
+      "pricing": {
+        "title": "Пакеттер",
+        "plans": [
+          {
+            "name": "Start",
+            "price": "Бағасы келісім бойынша",
+            "description": "Жылдам MVP/лендинг",
+            "bullets": [
+              "1 бет лендинг",
+              "WhatsApp CTA",
+              "Базалық аналитика"
+            ],
+            "highlighted": false
+          },
+          {
+            "name": "Pro",
+            "price": "Бағасы келісім бойынша",
+            "description": "Автоматизация + интеграциялар",
+            "bullets": [
+              "Лендинг + бот/CRM",
+              "AI автоматизация сценарийі",
+              "Интеграциялар"
+            ],
+            "highlighted": true
+          }
+        ]
+      },
+      "footer": {
+        "note": "© TestCo. Барлық құқық қорғалған."
+      }
+    }
+  },
+  "682b7e40-d2f3-41a2-8a26-0885e327b218": {
+    "version": 1,
+    "styleKey": "minimalist_tech",
+    "tokens": {
+      "fontHeading": "var(--font-space)",
+      "fontBody": "var(--font-inter)",
+      "bg": "bg-gradient-to-b from-slate-950 via-slate-950 to-black",
+      "card": "bg-white/5 backdrop-blur border border-white/10 shadow-[0_20px_60px_rgba(0,0,0,0.35)]",
+      "text": "text-white",
+      "muted": "text-white/70",
+      "border": "border-white/10",
+      "accent": "bg-sky-400",
+      "accentText": "text-slate-950",
+      "accentRing": "ring-2 ring-sky-400/40",
+      "radiusCard": "rounded-3xl",
+      "radiusCardSm": "rounded-2xl",
+      "radiusButton": "rounded-xl",
+      "radiusPill": "rounded-full",
+      "heroPadding": "px-4 pt-14 pb-10",
+      "sectionPadding": "px-4 py-10"
+    },
+    "brief": {
+      "businessName": "Abat Agency, кәсіпкерлерге",
+      "targetAudience": "Клиенттер",
+      "services": [
+        "Лендинг",
+        "AI автоматизация",
+        "Чат-бот/CRM"
+      ],
+      "uniqueSellingPoints": [
+        "Жылдам delivery",
+        "AI-first",
+        "Нақты нәтиже"
+      ],
+      "cta": {
+        "label": "Өтінім қалдыру",
+        "href": "#lead"
+      },
+      "language": "KZ"
+    },
+    "content": {
+      "hero": {
+        "badge": "Vibe Coding • AI-first delivery",
+        "headline": "Abat Agency, кәсіпкерлерге: сатылым әкелетін лендинг және AI автоматизация",
+        "subheadline": "Клиенттер үшін: Лендинг, AI автоматизация, Чат-бот/CRM. Нәтиже: Жылдам delivery • AI-first."
+      },
+      "features": {
+        "title": "Не аласыз?",
+        "items": [
+          {
+            "title": "Лендинг",
+            "description": "Конверсияға бағытталған құрылым, тез жүктелу, мобильді адаптив."
+          },
+          {
+            "title": "AI автоматизация",
+            "description": "Қолмен істейтін процестерді қысқартып, уақыт/шығын үнемдеу."
+          },
+          {
+            "title": "Чат-бот/CRM",
+            "description": "Лид жинау, квалификация, 24/7 байланыс және CRM интеграция."
+          }
+        ]
+      },
+      "pricing": {
+        "title": "Пакеттер",
+        "plans": [
+          {
+            "name": "Start",
+            "price": "Бағасы келісім бойынша",
+            "description": "Жылдам MVP/лендинг",
+            "bullets": [
+              "1 бет лендинг",
+              "WhatsApp CTA",
+              "Базалық аналитика"
+            ],
+            "highlighted": false
+          },
+          {
+            "name": "Pro",
+            "price": "Бағасы келісім бойынша",
+            "description": "Автоматизация + интеграциялар",
+            "bullets": [
+              "Лендинг + бот/CRM",
+              "AI автоматизация сценарийі",
+              "Интеграциялар"
+            ],
+            "highlighted": true
+          }
+        ]
+      },
+      "footer": {
+        "note": "© Abat Agency, кәсіпкерлерге. Барлық құқық қорғалған."
+      }
+    }
+  },
+  "dd623f99-1ae2-4235-a020-1c73af10193c": {
+    "version": 1,
+    "styleKey": "minimalist_tech",
+    "tokens": {
+      "fontHeading": "var(--font-space)",
+      "fontBody": "var(--font-inter)",
+      "bg": "bg-gradient-to-b from-slate-950 via-slate-950 to-black",
+      "card": "bg-white/5 backdrop-blur border border-white/10 shadow-[0_20px_60px_rgba(0,0,0,0.35)]",
+      "text": "text-white",
+      "muted": "text-white/70",
+      "border": "border-white/10",
+      "accent": "bg-sky-400",
+      "accentText": "text-slate-950",
+      "accentRing": "ring-2 ring-sky-400/40",
+      "radiusCard": "rounded-3xl",
+      "radiusCardSm": "rounded-2xl",
+      "radiusButton": "rounded-xl",
+      "radiusPill": "rounded-full",
+      "heroPadding": "px-4 pt-14 pb-10",
+      "sectionPadding": "px-4 py-10"
+    },
+    "brief": {
+      "businessName": "abat agency, кәсіпкерлерге",
+      "targetAudience": "Клиенттер",
+      "services": [
+        "Лендинг",
+        "AI автоматизация",
+        "Чат-бот/CRM"
+      ],
+      "uniqueSellingPoints": [
+        "Жылдам delivery",
+        "AI-first",
+        "Нақты нәтиже"
+      ],
+      "cta": {
+        "label": "Өтінім қалдыру",
+        "href": "#lead"
+      },
+      "language": "KZ"
+    },
+    "content": {
+      "hero": {
+        "badge": "Vibe Coding • AI-first delivery",
+        "headline": "abat agency, кәсіпкерлерге: сатылым әкелетін лендинг және AI автоматизация",
+        "subheadline": "Клиенттер үшін: Лендинг, AI автоматизация, Чат-бот/CRM. Нәтиже: Жылдам delivery • AI-first."
+      },
+      "stats": {
+        "title": "Нәтиже",
+        "items": [
+          {
+            "label": "Дайындау уақыты",
+            "value": "1–3 күн"
+          },
+          {
+            "label": "Фокус",
+            "value": "Конверсия"
+          },
+          {
+            "label": "Қолдау",
+            "value": "Итерация + аналитика"
+          }
+        ]
+      },
+      "features": {
+        "title": "Не аласыз?",
+        "items": [
+          {
+            "title": "Лендинг",
+            "description": "Конверсияға бағытталған құрылым, тез жүктелу, мобильді адаптив."
+          },
+          {
+            "title": "AI автоматизация",
+            "description": "Қолмен істейтін процестерді қысқартып, уақыт/шығын үнемдеу."
+          },
+          {
+            "title": "Чат-бот/CRM",
+            "description": "Лид жинау, квалификация, 24/7 байланыс және CRM интеграция."
+          }
+        ]
+      },
+      "testimonials": {
+        "title": "Клиенттер не дейді?",
+        "items": [
+          {
+            "name": "Айгерім",
+            "role": "Кәсіпкер",
+            "quote": "Лендинг бірден түсінікті болды, лидтер көбейді."
+          },
+          {
+            "name": "Дәурен",
+            "role": "Сату менеджері",
+            "quote": "CTA мен офферді дұрыстап берген соң конверсия өсті."
+          }
+        ]
+      },
+      "faq": {
+        "title": "Жиі сұрақтар",
+        "items": [
+          {
+            "q": "Қанша уақытта дайын болады?",
+            "a": "Бриф дайын болса, MVP 1–3 күн ішінде."
+          },
+          {
+            "q": "Қандай интеграциялар бар?",
+            "a": "WhatsApp/Telegram, CRM, analytics (GA/Pixel) қосамыз."
+          },
+          {
+            "q": "Контентті өзгерте аламын ба?",
+            "a": "Иә, конфиг арқылы тез өзгертіп шығамыз."
+          }
+        ]
+      },
+      "pricing": {
+        "title": "Пакеттер",
+        "plans": [
+          {
+            "name": "Start",
+            "price": "Бағасы келісім бойынша",
+            "description": "Жылдам MVP/лендинг",
+            "bullets": [
+              "1 бет лендинг",
+              "WhatsApp CTA",
+              "Базалық аналитика"
+            ],
+            "highlighted": false
+          },
+          {
+            "name": "Pro",
+            "price": "Бағасы келісім бойынша",
+            "description": "Автоматизация + интеграциялар",
+            "bullets": [
+              "Лендинг + бот/CRM",
+              "AI автоматизация сценарийі",
+              "Интеграциялар"
+            ],
+            "highlighted": true
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "Дайынсыз ба? 15 минутта бағыт береміз",
+        "subtitle": "Қысқа қоңырау → оффер → прототип. Бүгін бастайық."
+      },
+      "footer": {
+        "note": "© abat agency, кәсіпкерлерге. Барлық құқық қорғалған."
+      }
+    }
+  },
+  "2ac182cd-3569-4702-a141-d332a6a9844f": {
+    "version": 1,
+    "styleKey": "bold_modern",
+    "tokens": {
+      "fontHeading": "var(--font-syne)",
+      "fontBody": "var(--font-inter)",
+      "bg": "bg-gradient-to-b from-black via-zinc-950 to-slate-900",
+      "card": "bg-white/5 border border-white/10 shadow-[0_25px_70px_rgba(0,0,0,0.5)]",
+      "text": "text-white",
+      "muted": "text-white/70",
+      "border": "border-white/10",
+      "accent": "bg-fuchsia-500",
+      "accentText": "text-white",
+      "accentRing": "ring-2 ring-fuchsia-500/40",
+      "radiusCard": "rounded-[28px]",
+      "radiusCardSm": "rounded-2xl",
+      "radiusButton": "rounded-2xl",
+      "radiusPill": "rounded-full",
+      "heroPadding": "px-4 pt-16 pb-10",
+      "sectionPadding": "px-4 py-10"
+    },
+    "brief": {
+      "businessName": "LayoutCo",
+      "targetAudience": "Клиенттер",
+      "services": [
+        "Лендинг",
+        "AI автоматизация",
+        "Чат-бот/CRM"
+      ],
+      "uniqueSellingPoints": [
+        "Жылдам delivery",
+        "AI-first",
+        "Нақты нәтиже"
+      ],
+      "cta": {
+        "label": "Өтінім қалдыру",
+        "href": "#lead"
+      },
+      "language": "KZ"
+    },
+    "content": {
+      "hero": {
+        "badge": "Vibe Coding • AI-first delivery",
+        "headline": "LayoutCo: сатылым әкелетін лендинг және AI автоматизация",
+        "subheadline": "Клиенттер үшін: Лендинг, AI автоматизация, Чат-бот/CRM. Нәтиже: Жылдам delivery • AI-first."
+      },
+      "stats": {
+        "title": "Нәтиже",
+        "items": [
+          {
+            "label": "Дайындау уақыты",
+            "value": "1–3 күн"
+          },
+          {
+            "label": "Фокус",
+            "value": "Конверсия"
+          },
+          {
+            "label": "Қолдау",
+            "value": "Итерация + аналитика"
+          }
+        ]
+      },
+      "features": {
+        "title": "Не аласыз?",
+        "items": [
+          {
+            "title": "Лендинг",
+            "description": "Конверсияға бағытталған құрылым, тез жүктелу, мобильді адаптив."
+          },
+          {
+            "title": "AI автоматизация",
+            "description": "Қолмен істейтін процестерді қысқартып, уақыт/шығын үнемдеу."
+          },
+          {
+            "title": "Чат-бот/CRM",
+            "description": "Лид жинау, квалификация, 24/7 байланыс және CRM интеграция."
+          }
+        ]
+      },
+      "testimonials": {
+        "title": "Клиенттер не дейді?",
+        "items": [
+          {
+            "name": "Айгерім",
+            "role": "Кәсіпкер",
+            "quote": "Лендинг бірден түсінікті болды, лидтер көбейді."
+          },
+          {
+            "name": "Дәурен",
+            "role": "Сату менеджері",
+            "quote": "CTA мен офферді дұрыстап берген соң конверсия өсті."
+          }
+        ]
+      },
+      "faq": {
+        "title": "Жиі сұрақтар",
+        "items": [
+          {
+            "q": "Қанша уақытта дайын болады?",
+            "a": "Бриф дайын болса, MVP 1–3 күн ішінде."
+          },
+          {
+            "q": "Қандай интеграциялар бар?",
+            "a": "WhatsApp/Telegram, CRM, analytics (GA/Pixel) қосамыз."
+          },
+          {
+            "q": "Контентті өзгерте аламын ба?",
+            "a": "Иә, конфиг арқылы тез өзгертіп шығамыз."
+          }
+        ]
+      },
+      "pricing": {
+        "title": "Пакеттер",
+        "plans": [
+          {
+            "name": "Start",
+            "price": "Бағасы келісім бойынша",
+            "description": "Жылдам MVP/лендинг",
+            "bullets": [
+              "1 бет лендинг",
+              "WhatsApp CTA",
+              "Базалық аналитика"
+            ],
+            "highlighted": false
+          },
+          {
+            "name": "Pro",
+            "price": "Бағасы келісім бойынша",
+            "description": "Автоматизация + интеграциялар",
+            "bullets": [
+              "Лендинг + бот/CRM",
+              "AI автоматизация сценарийі",
+              "Интеграциялар"
+            ],
+            "highlighted": true
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "Дайынсыз ба? 15 минутта бағыт береміз",
+        "subtitle": "Қысқа қоңырау → оффер → прототип. Бүгін бастайық."
+      },
+      "footer": {
+        "note": "© LayoutCo. Барлық құқық қорғалған."
+      }
+    },
+    "layout": {
+      "sections": [
+        {
+          "type": "hero",
+          "variant": "split",
+          "anchor": "top"
+        },
+        {
+          "type": "stats",
+          "variant": "cards"
+        },
+        {
+          "type": "features",
+          "variant": "grid",
+          "anchor": "features"
+        },
+        {
+          "type": "pricing",
+          "variant": "cards",
+          "anchor": "pricing"
+        },
+        {
+          "type": "testimonials",
+          "variant": "quotes"
+        },
+        {
+          "type": "faq",
+          "variant": "accordion",
+          "anchor": "faq"
+        },
+        {
+          "type": "lead",
+          "variant": "form",
+          "anchor": "lead"
+        },
+        {
+          "type": "footer",
+          "variant": "simple"
+        }
+      ]
+    }
+  }
+}
